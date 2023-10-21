@@ -1,6 +1,6 @@
-# frivia
+# Trivia App
 
-A new Flutter project.
+A simple trivia game made using [Open Trivia Database](https://opentdb.com).
 
 ## Getting Started
 
